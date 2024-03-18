@@ -63,6 +63,7 @@ const App = () => {
                 Portfolio
               </Link>
             </li>
+            <li className="nav-item"><a className="nav-link" href="https://blog.devanurag.com/">Blog</a></li>
             <li className="nav-item">
               <Link className="nav-link" to="/contact">
                 Contact
